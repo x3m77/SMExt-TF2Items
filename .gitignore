@@ -9,5 +9,7 @@
 /extension/msvc10/tf2items.sln
 /extension/msvc10/tf2items.suo
 
+build-*/
+
 hl2sdk-manifests/
-safetyhook/
+/safetyhook/
